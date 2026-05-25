@@ -13,3 +13,11 @@ A Python-based console application to manage student records.
 1. Ensure you have Python installed.
 2. Clone this repository.
 3. Run the application using: `python main.py`
+
+
+
+
+## Task 2: Password Generator Project
+A modular and security-focused password generator with heuristic strength analysis.
+- Features: Mandatory character policy (uppercase, lowercase, digits, symbols).
+- Integration: Includes `analyzer.py` for testing and evaluation.
