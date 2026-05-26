@@ -21,3 +21,9 @@ A Python-based console application to manage student records.
 A modular and security-focused password generator with heuristic strength analysis.
 - Features: Mandatory character policy (uppercase, lowercase, digits, symbols).
 - Integration: Includes `analyzer.py` for testing and evaluation.
+
+- ## Task 3: File Handling & Data Processing System
+This project demonstrates advanced file handling in Python, including:
+- Reading from CSV data files.
+- Generating automated text reports for different departments (Engineering, Marketing, etc.).
+- Robust error handling for file operations.
